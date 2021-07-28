@@ -56,9 +56,10 @@ versionhistory:
 workflowClient
 --------------
 the workflowClient is a console application for testing the workflowLibrary.  
-you can use it   
-workflowClient.exe <PIN  
-			
+you can use it
+```
+workflowClient.exe <PIN>  
+```			
 
 -------
 license
