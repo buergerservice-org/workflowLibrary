@@ -51,6 +51,14 @@ versionhistory:
 0.2 better workflow  
 0.1 start pilotversion  
 
+	
+--------------
+workflowClient
+--------------
+the workflowClient is a console application for testing the workflowLibrary.  
+you can use it   
+workflowClient.exe <PIN  
+			
 
 -------
 license
