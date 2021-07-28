@@ -11,7 +11,7 @@ requirements:
 a 64bit Computer cause this Plugin is 64bit,
 Visual C++ Redistributable for Visual Studio 2015/2017/2019,
 AusweisApp2
-cardreader (maybe you can use a new Android Handy as cardreader - connect in AusweisApp2)
+cardreader
 for online identification ready Personalausweis - you can test it in AusweisApp2 with "Meine Daten einsehen"
 internetaccess
 
