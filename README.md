@@ -1,5 +1,5 @@
 # workflowLibrary
-libraryinterface to AusweisApp2-SDK  
+libraryinterface to AusweisApp2-SDK and openssl  
 workflowLibrary: read data of german Personalausweis with selfauthentication from AusweisApp2  
 Version: 0.3  
 Author: buergerservice.org e.V. <KeePerso@buergerservice.org>  
@@ -51,6 +51,15 @@ versionhistory:
 0.2 better workflow  
 0.1 start pilotversion  
 
+	
+--------------
+workflowClient
+--------------
+the workflowClient is a console application for testing the workflowLibrary.  
+you can use it
+```
+workflowClient.exe <PIN>  
+```			
 
 -------
 license
