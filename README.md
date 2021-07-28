@@ -1,12 +1,8 @@
 # workflowLibrary
 libraryinterface to AusweisApp2-SDK
-
 workflowLibrary: read data of german Personalausweis with selfauthentication from AusweisApp2
-
 Version: 0.3
-
 Author: buergerservice.org e.V. <KeePerso@buergerservice.org>
-
 Language: English
 
 
